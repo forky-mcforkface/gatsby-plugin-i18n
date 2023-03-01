@@ -5,7 +5,7 @@
   },
   "devDependencies": {
     "codecov": "^3.0.0",
-    "lerna": "^2.5.1"
+    "lerna": "^6.5.1"
   },
   "keywords": [
     "gatsby",
